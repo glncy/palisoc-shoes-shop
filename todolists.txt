@@ -1,0 +1,16 @@
+</>Payment Database - Add & Delete
+</>Front End Nav - Men, Women, Kids
+</>Search In Places
+
+</>Qty
+
+Admin Settings
+
+</>Receipt - User & Admin
+
+
+</>Reports - Annually and By Months. (After Clicking the month, will show the report of certain Month)
+
+Reports - Print in Graph
+
+</>Design
